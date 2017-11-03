@@ -1,4 +1,4 @@
-package com.mcolmenero.guedr
+package com.mcolmenero.guedr.fragment
 
 import android.app.Activity
 import android.app.Fragment
@@ -10,6 +10,10 @@ import android.util.Log
 import android.view.*
 import android.widget.ImageView
 import android.widget.TextView
+import com.mcolmenero.guedr.model.Forecast
+import com.mcolmenero.guedr.PREFERENCE_SHOW_CELSIUS
+import com.mcolmenero.guedr.R
+import com.mcolmenero.guedr.activity.SettingsActivity
 
 class ForecastFragment : Fragment() {
 

@@ -1,5 +1,6 @@
 package com.mcolmenero.guedr
 
+import com.mcolmenero.guedr.model.Forecast
 import org.junit.Assert.*
 import org.junit.Before
 import org.junit.Test

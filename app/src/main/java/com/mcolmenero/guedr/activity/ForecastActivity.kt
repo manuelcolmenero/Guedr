@@ -1,7 +1,8 @@
-package com.mcolmenero.guedr
+package com.mcolmenero.guedr.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.mcolmenero.guedr.R
 
 class ForecastActivity : AppCompatActivity() {
 
